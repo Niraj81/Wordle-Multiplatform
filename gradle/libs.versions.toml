@@ -2,7 +2,7 @@
 
 kotlin = "1.9.23"
 compose = "1.6.1"
-agp = "8.3.1"
+agp = "8.2.0"
 androidx-activityCompose = "1.8.2"
 androidx-uiTest = "1.6.4"
 voyager = "1.0.0"
